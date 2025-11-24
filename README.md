@@ -4,4 +4,4 @@
 现在界面位于main分支，如果想要下载项目，请到master分支中进行下载隆
 LoRA模型用于验证工作流
 训练一个蒙古族纹样识别生成的模型组
-Prohibited for commercial use
+ Prohibited for commercial activities
