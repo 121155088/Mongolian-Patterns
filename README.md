@@ -1,6 +1,6 @@
 # Mongolian-Patterns
 用于建构生成人工智能的工作流LoRA模型
-本项目文件位于master分支中
+本项目文件位于Mongolian分支中
 现在界面位于main分支，如果想要下载项目，请到master分支中进行下载隆
 LoRA模型用于验证工作流
 训练一个蒙古族纹样识别生成的模型组
